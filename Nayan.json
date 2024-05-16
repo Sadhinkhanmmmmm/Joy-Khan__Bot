@@ -3,21 +3,21 @@
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
-  "language": "en",
+  "language": "Bangla",
   "notification": true,
   "approval": false,
-  "BOTNAME": "JOY-BOT",
+  "BOTNAME": "XXX-BOT",
   "PREFIX": "/",
-  "OPERATOR": [
-    "100065050393649",
-    "100092456114947"
+  "OPERATOR": [ Niloy
+    "100080426943176",
+    "61557115743290"
   ],
-  "ADMINBOT": [
-    "100065050393649",
-    "100092456114947"
+  "ADMINBOT": [100080426943176
+    "100082663196692",
+    "100088144027662"
   ],
-  "OWNER": ["100000959749712"], 
-  "APPROVED": [],
+  "OWNER": ["100082663196692"], 
+  "APPROVED": [on],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
